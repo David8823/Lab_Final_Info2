@@ -1,0 +1,13 @@
+La carpeta sistema debera estar ubicada en el mismo lugar
+donde se encuentra la carpeta build del proyecto.
+
+el proyecto esta desarrollado de tal forma que la primera
+linea del archivo txt seran los datos del sol.
+
+el sol y los planetas reciben diferente cantidad de datos.
+
+los datos estan organzados de la siguiente manera:
+
+sol: [posicion x][posicion y][velocidad x][velocidad y][masa]
+
+planetas: [posicion x][posicion y][velocidad x][velocidad y][masa del sol][posicion x del sol][posicion y del sol][radio del sol]
